@@ -14,7 +14,7 @@ This repository is created as part of the **mandatory submission requirement** f
 
 ## 🗂️ Folder Structure
 
-> 📌 We are following the **Folder-Based Format**, which is the **industry standard** for code versioning and collaboration.
+> 📌 I are followed the **Folder-Based Format**, which is the **industry standard** for code versioning and collaboration.
 
 Each week will have a parent folder with structured subfolders.
 
