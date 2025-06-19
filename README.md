@@ -16,16 +16,7 @@ This repository is created as part of the **mandatory submission requirement** f
 
 > 📌 We are following the **Folder-Based Format**, which is the **industry standard** for code versioning and collaboration.
 
-Each week will have a parent folder with structured subfolders:
-
-Week1_DesignPatternsAndPrinciples/
-├── 01_SRP/
-│ ├── Code/ # .cs or .sql files
-│ └── Output/ # Output screenshots (.png, .jpg)
-├── 02_OCP/
-│ ├── Code/
-│ └── Output/
-...
+Each week will have a parent folder with structured subfolders.
 
 ✅ Each subfolder corresponds to a specific hands-on question.
 ✅ Code files and output screenshots are clearly separated for easy review.
