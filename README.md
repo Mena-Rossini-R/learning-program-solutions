@@ -2,8 +2,6 @@
 
 Welcome to the official repository for **Cognizant's Digital Nurture 4.0 Deep Skilling Program** – **DotNet Full Stack Engineer (FSE)** Path.
 
-This repository contains hands-on solutions, outputs, and documentation related to the deep skilling program. The structure and naming conventions strictly follow Cognizant's provided GitHub Repository Submission Guidelines.
-
 ---
 
 ## 📌 Purpose
@@ -14,22 +12,9 @@ This repository is created as part of the **mandatory submission requirement** f
 
 ## 🗂️ Folder Structure
 
-> 📌 I are followed the **Folder-Based Format**, which is the **industry standard** for code versioning and collaboration.
+> 📌 I followed the **Folder-Based Format**, which is the **industry standard** for code versioning and collaboration.
 
 Each week will have a parent folder with structured subfolders.
-
-✅ Each subfolder corresponds to a specific hands-on question.
-
-✅ Code files and output screenshots are clearly separated for easy review.
-
----
-
-## ⚙️ Tools Used
-
-- Visual Studio Community Edition  
-- SQL Server Management Studio  
-- Visual Studio Code  
-- Git Bash  
 
 ---
 
