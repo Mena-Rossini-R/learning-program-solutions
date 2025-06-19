@@ -1,4 +1,4 @@
-# 🧠 Week 1 Notes – Design Patterns & Principles (DN 4.0 – .NET FSE)
+# 🧠 Week 1 Notes – Design Patterns & Principles
 
 Hey there 👋 — this is my Week 1 brain dump!  
 This folder covers all the major stuff like SOLID principles and 11 design patterns.  
@@ -101,16 +101,26 @@ They're reusable solutions to common problems.
 
 ## 💡 Real Life Analogy Map
 
-ingleton 🔒 – One boss in a company
+Singleton 🔒 – One boss in a company
+
 Factory 🍕 – Order pizza, get different types
+
 Builder 🍔 – Custom burger with addons
+
 Adapter 🔌 – USB-to-C plug
+
 Decorator 🧁 – Sprinkles on a cupcake
+
 Proxy 🪪 – Doorman checking ID
+
 Observer 📣 – You get notified on Insta
+
 Strategy 🗺️ – Choose best travel route
+
 Command 🎮 – Remote control sends commands
+
 MVC 🧠👁️🛠️ – Brain, Eye, Hand
+
 DI 🧃 – Juice comes in, not made inside
 
 
