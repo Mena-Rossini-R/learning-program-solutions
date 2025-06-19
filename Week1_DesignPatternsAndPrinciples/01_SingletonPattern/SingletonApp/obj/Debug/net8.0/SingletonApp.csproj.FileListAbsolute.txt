@@ -1,0 +1,15 @@
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/bin/Debug/net8.0/SingletonApp
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/bin/Debug/net8.0/SingletonApp.deps.json
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/bin/Debug/net8.0/SingletonApp.runtimeconfig.json
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/bin/Debug/net8.0/SingletonApp.dll
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/bin/Debug/net8.0/SingletonApp.pdb
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/SingletonApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/SingletonApp.AssemblyInfoInputs.cache
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/SingletonApp.AssemblyInfo.cs
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/SingletonApp.csproj.CoreCompileInputs.cache
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/SingletonApp.sourcelink.json
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/SingletonApp.dll
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/refint/SingletonApp.dll
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/SingletonApp.pdb
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/SingletonApp.genruntimeconfig.cache
+/home/sec/Music/Cognizant/learning-program-solutions/Week1_DesignPatternsAndPrinciples/01_SingletonPattern/SingletonApp/obj/Debug/net8.0/ref/SingletonApp.dll
