@@ -35,6 +35,7 @@ In software:
 ## 🧪 Output Explanation
 
 When you run the program, you see:
+
 ![Singleton Output](SingletonPattern.png)
 
 ✅ This confirms:
