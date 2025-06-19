@@ -19,6 +19,7 @@ This repository is created as part of the **mandatory submission requirement** f
 Each week will have a parent folder with structured subfolders.
 
 ✅ Each subfolder corresponds to a specific hands-on question.
+
 ✅ Code files and output screenshots are clearly separated for easy review.
 
 ---
